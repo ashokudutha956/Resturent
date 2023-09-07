@@ -1,0 +1,37 @@
+<html>
+    <head>
+    <title>resturent menu</title>
+    </head>
+    <body><h2 style="background-color: rgb(255, 136, 0);"><center>ASHOK RESTURENT</center></h2>
+        <img src="https://plus.unsplash.com/premium_photo-1679548651523-741d00da5ece?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60" height="100",width="100">
+        <img src="https://images.unsplash.com/photo-1467003909585-2f8a72700288?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60" height="100",width="100">
+        <img src="https://media.istockphoto.com/id/1403973419/photo/table-top-of-food-spread-on-table.jpg?s=612x612&w=is&k=20&c=xYQ9zvk5FirhMumfTPuF0YlYXN3Q_0K-IenUKdChPnk="height="100",width="100">
+    <img src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=400" height="100"width="100">
+    <img src="https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&w=400"height="100",width="100">
+    <p><b>DISCRIPTION:</b>A restaurant is a business that prepares and serves food and drinks to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services.</p>
+    <button a href="Opposite Sailee Hospital, Link Road, Borivali West, Mumbai"height="100" width="100">VIEW MENU</button><br>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.364324413059!2d78.3539328747117!3d17.442268101222737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9395e7ef1755%3A0x57cf2048620848f4!2sParadise%20Biryani%20%7C%20Gachibowli!5e0!3m2!1sen!2sin!4v1694072160901!5m2!1sen!2sin" width="200" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+     <fieldset>
+        <legend>Rigestrion form</legend>
+        Name<input type="text"><br>
+        Surname<input type="text"><br>
+        Dinig <input type="radio">Veg<input type="radio">Nonveg<br>
+staters        
+        <select>
+        <option value="">chicken65</option>
+        <option value="">veg manchuriya</option>
+        <option value="">chicken pakodi</option>
+        </select><br>
+        feedback <br> <textarea rows="10" cols="20"></textarea>
+     </fieldset>
+     <footer>
+        <h4 style="background-color:yellow;">
+        <pre>
+            contact : 9999888822.<br>
+            email : ashokresratentkphb@gmail.com<br>
+            
+        </pre></h4>
+     </footer>
+     <img src=""
+    </body>
+</html>
